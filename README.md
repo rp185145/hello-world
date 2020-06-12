@@ -15,3 +15,9 @@ I create [hello world projects](https://github.com/search?q=hello+world) for fun
 
 ### Purpose
 Created to follow the [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/). Bling added to keep things exciting since I've been around the GitHub block a few times.
+
+### Stuff I Learned
+- [x] Create and use a repository
+- [x] Start and manage a new branch
+- [x] Make changes to a file and push them to GitHub as commits
+- [x] Open and merge a pull request
