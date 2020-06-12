@@ -14,4 +14,4 @@ A [time-honored tradition](https://www.thesoftwareguild.com/blog/the-history-of-
 I create [hello world projects](https://github.com/search?q=hello+world) for fun, fame, and fortune.
 
 ### Purpose
-Created to follow the [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/).
+Created to follow the [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/). Bling added to keep things exciting since I've been around the GitHub block a few times.
