@@ -13,6 +13,8 @@ A [time-honored tradition](https://www.thesoftwareguild.com/blog/the-history-of-
 
 I create [hello world projects](https://github.com/search?q=hello+world) for fun, fame, and fortune.
 
+![Image of my Robohash](https://robohash.org/rp185145.png?size=150x150)
+
 ### Purpose
 Created to follow the [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/). Bling added to keep things exciting since I've been around the GitHub block a few times.
 
