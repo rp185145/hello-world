@@ -7,4 +7,4 @@ A [time-honored tradition](https://www.thesoftwareguild.com/blog/the-history-of-
 
 ---
 
-I create [hello world projects](https://github.com/search?q=hello+world) for fun :game_die:  , fame  :movie_camera:  , and fortune  :moneybag:   .
+I create [hello world projects](https://github.com/search?q=hello+world) for fun :game_die: fame :movie_camera: and fortune :moneybag:.
