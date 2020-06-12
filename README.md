@@ -1,5 +1,5 @@
 # hello-world
-A [time-honored tradition](https://www.thesoftwareguild.com/blog/the-history-of-hello-world/) in computer programming
+A [time-honored tradition](https://www.thesoftwareguild.com/blog/the-history-of-hello-world/) in [computer programming](https://en.wikipedia.org/wiki/Computer_programming)
 
 ---
 [![GitHub contributors](https://img.shields.io/github/contributors/rp185145/hello-world.svg)](https://github.com/rp185145/hello-world/graphs/contributors/)
@@ -9,4 +9,9 @@ A [time-honored tradition](https://www.thesoftwareguild.com/blog/the-history-of-
 
 ---
 
+### About Me
+
 I create [hello world projects](https://github.com/search?q=hello+world) for fun, fame, and fortune.
+
+### Purpose
+Created to follow the [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/).
